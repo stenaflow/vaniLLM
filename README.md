@@ -1,6 +1,8 @@
 # **VaniLLM**
 A simple Large Language Model built from scratch for text completion.
 
+➡️ See the full article [here](https://medium.com/@stenaflow/vanillm-building-a-simple-llm-for-text-completion-from-scratch-89ca3a6d751d).
+
 ![Example](example_gif.gif)
 
 ## **Overview**
